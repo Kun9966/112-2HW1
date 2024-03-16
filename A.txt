@@ -1,11 +1,1 @@
-
-This is a cake.
-This is a cake.
-This is a cake.
-This is a cake.
-This is a cake.
-This is a bear.
-This is a bear.
-This is a bear.
-This is a bear.
-This is a bear.
+This is an apple.
